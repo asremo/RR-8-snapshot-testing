@@ -9,6 +9,7 @@ function GitHubCard() {
   return (
     <Card style={{ width: '18rem' }}>
       <Card.Img variant="top" src={Woody} />
+      {/* Pic src; https://unsplash.com/photos/VGR_ReUCqNw */}
       <Card.Body>
         <Card.Title>Woody</Card.Title>
         <Card.Text>
